@@ -9,10 +9,8 @@ Y88b   d88P d8b                            d8b       .d8888b.  888
     888     888 888  888  "Y88888  "Y88888 888       "Y8888P"  888  888  "Y8888  888  888 
                               888      888                                                
                          Y8b d88P      888                                                
-                          "Y88P"       888                                                
-                                      
-```
-                                                                                 
+                          "Y88P"       888                                                                                    
+```                                                                               
 - 👋 Hi, I’m Yingqi Chen
 - 👀 I’m interested in coding, drawing, UI design.
 - 🌱 I’m currently learning in HTML, JavaScript, Python3.
